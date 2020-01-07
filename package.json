@@ -1,0 +1,20 @@
+{
+  "name": "threejsusingmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "three": "^0.110.0",
+    "three-orbitcontrols": "^2.110.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "build-dev-watch": "webpack ---mode development --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
