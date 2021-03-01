@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "three": "^0.110.0",
+    "three": "^0.125.0",
     "three-orbitcontrols": "^2.110.1",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10"
